@@ -11,5 +11,6 @@ A computational pipeline designed for automated processing of Next-Generation Se
 - conditionally start the pipeline based on the kind of inputs
 - conditionally alternative variant filtering and parsing
 
+![NGS data processing workflow diagram](Workflow_diagram.png)
 
 
