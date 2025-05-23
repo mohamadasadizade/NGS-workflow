@@ -3,13 +3,13 @@ A computational pipeline designed for automated processing of Next-Generation Se
 
 ## functionalities 
 
-- dynamic directory building 
-- passing userID and jobID through the pipeline 
-- logging each step and error handling 
-- skipping each step if it previously ran (for killed runs)
-- flag to skip the QC step
-- conditionally start the pipeline based on the kind of inputs
-- conditionally alternative variant filtering and parsing
+- Dynamic directory building 
+- Passing the userID and jobID through the pipeline 
+- Logging each step and error handling 
+- Skipping each step if it has previously run (for killed runs)
+- Flag to skip the QC step
+- Conditionally start the pipeline based on the kind of inputs
+- Conditionally alternative variant filtering and parsing
 
 ![NGS data processing workflow diagram](Workflow_diagram.png)
 
